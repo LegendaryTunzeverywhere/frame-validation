@@ -106,4 +106,10 @@ docker run \
 --conf.file testnet.json
 ```
 
+Then, run this line of bash the shell file created using.
 
+```
+bash run.sh
+```
+
+This will start the docker and also start the frame validator node.
